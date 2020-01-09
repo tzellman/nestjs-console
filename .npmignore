@@ -12,3 +12,4 @@ yarn.lock
 .circleci
 .vscode
 renovate.json
+.github
